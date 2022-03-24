@@ -1,0 +1,4 @@
+D:\Учеба УГАТУ\2 курс\2 семестр\ИГ\IG_laba1\Debug\IG_laba1.exe
+D:\Учеба УГАТУ\2 курс\2 семестр\ИГ\IG_laba1\Debug\IG_laba1.vcxproj.CopyComplete
+D:\Учеба УГАТУ\2 курс\2 семестр\ИГ\IG_laba1\Debug\freeglutd.dll
+D:\Учеба УГАТУ\2 курс\2 семестр\ИГ\IG_laba1\Debug\glew32d.dll
